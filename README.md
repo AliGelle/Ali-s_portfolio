@@ -19,11 +19,11 @@ The dataset used for this project is stored in the `data` folder as `Movies_clea
 - **vote_count:** Number of votes the movie received
 
 ### Tools and Libraries Used
-Python: Programming language used for the entire project.
-Excel: Used to clean, organize, and preprocess the initial dataset before loading it into Python for further analysis.
-Jupyter Notebook: Used to develop and document the project interactively, especially useful for feature engineering and experimentation.
-scikit-learn: Used for TF-IDF vectorization and cosine similarity calculations.
-NumPy: For matrix handling and efficient numerical operations.
-Pandas: Data manipulation and feature engineering.
-NLTK (Natural Language Toolkit): Optional, for advanced text preprocessing if required.
+1. Python: Programming language used for the entire project.
+2. Excel: Used to clean, organize, and preprocess the initial dataset before loading it into Python for further analysis.
+3. Jupyter Notebook: Used to develop and document the project interactively, especially useful for feature engineering and experimentation.
+4. scikit-learn: Used for TF-IDF vectorization and cosine similarity calculations.
+5. NumPy: For matrix handling and efficient numerical operations.
+6. Pandas: Data manipulation and feature engineering.
+7. NLTK (Natural Language Toolkit): Optional, for advanced text preprocessing if required.
 
